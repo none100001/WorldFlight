@@ -1,0 +1,2 @@
+# WorldFlight
+It’s an android based project. User will select source and destination and then this app will give the way of Airports and shortest path (drawing) including Clocks and Description. Path are shown by various colorful lines and information are collected from wikipedia so user will get the correct information and also use this app easily and comfortably. For selecting shortest path i used dijkstra algorithm.
